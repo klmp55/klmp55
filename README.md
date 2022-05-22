@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on some IoT based projects.
 - 📫 You can reach me out on my linkedin.
 -  www.linkedin.com/in/klmp55
--  
+
 
 
 <!---
